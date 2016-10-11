@@ -8,6 +8,7 @@ Automatic translation of clinical researcher data requests to executable databas
 
 # Usage
 TEXer_English: the TEXer tool for English free medical text
+
 TEXer_Chinese: the TEXer tool for English free medical text
 
 
