@@ -14,9 +14,13 @@ TEXer_Chinese: the TEXer tool for English free medical text
 
 # Data usage
 training: some training instances
+
 training_gold: the gold standard (human annotation) of the training data
+
 training_pattern: the trained patterns
+
 testing: some testing instances
+
 testing_gold: the gold standard (human annotation) of the testing data
 
 
