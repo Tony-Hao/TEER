@@ -26,3 +26,10 @@ testing_gold: the gold standard (human annotation) of the testing data
 
 # Citation
 Tianyong Hao, Alex Rusanov, Chunhua Weng. Extracting and Normalizing Temporal Expressions in Clinical Data Requests from Researchers. Lecture Notes in Computer Science, Volume 8040, pp 41-51, Springer, 2013.  
+
+# Contributors
+Tianyong Hao
+
+Zhiying Gu (Improve English version and develop Chinese version for EMR text)
+
+Xiaoyi Pan (Improve Chinese version)
